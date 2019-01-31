@@ -35,7 +35,7 @@ public class NewSort {
 	    public static void main(String args[]) 
 	    { 
 	        NewSort c = new NewSort(); 
-	        int arr[] = {32,26,56,55,45}; 
+	        int arr[] = {32,26,56,55,45,33}; 
 	        c.Selectionsort(arr); 
 	        System.out.println("Sorted array"); 
 	        c.printArray(arr); 
